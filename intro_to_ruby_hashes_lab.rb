@@ -13,7 +13,6 @@ end
 
 def monopoly
 	monopoly_hash = {
-      :name => "Dwayne The Rock Johnson",
       :railroads => {}
       }
 end
