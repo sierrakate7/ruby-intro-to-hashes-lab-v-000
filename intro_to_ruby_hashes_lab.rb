@@ -10,14 +10,12 @@ def actor
    monopoly_hash = {:name => "Dwayne The Rock Johnson"}
 end
 
-def monopoly
+
 def monopoly
 	monopoly_hash = {
       :name => "Dwayne The Rock Johnson",
-      railroads => {}
+      :railroads => {}
       }
-end
-  
 end
 	
 
